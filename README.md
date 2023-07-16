@@ -5,7 +5,7 @@
 ## 📝
 
 ### Things to do
-- [ ] Bandit Page 4/34
+- [ ] Bandit Page
 - [ ] Leviathan or Natas or Krypton
 - [ ] Narnia
 - [ ] Behemoth
